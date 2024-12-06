@@ -97,7 +97,7 @@ To run the simulations and analyses:
   - `matplotlib`
 
 ## Contributors
-- **Amir Raoufi** - Main Author ([amir.raoufi@mailbox.tu-dresden.de](mailto:amir.raoufi@mailbox.tu-dresden.de))
+- **Amir Raoufi** - Main Author ([amir.rf67@gmail.com](mailto:amir.rf67@gmail.com))
 
 ## License
 This project is licensed under the MIT License.
